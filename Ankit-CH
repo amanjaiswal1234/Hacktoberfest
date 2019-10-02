@@ -1,0 +1,9 @@
+#include<bits/stdc++.h>
+using namespace std;
+int_32 main(){
+  int anki = 0;
+  if(anki){
+    printf("Kill me");
+  }
+  return 0;
+}
