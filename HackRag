@@ -1,0 +1,10 @@
+#include<iostream> 
+using namespace std; 
+int32_t main(){  
+    int randii=0;
+    while(!randii) 
+    { 
+        std::cout<<"XNXX.com\n"; 
+    } 
+    return 0; 
+}
